@@ -1,0 +1,12 @@
+.App {
+    background-color: lightslategray;
+
+
+    bottom:0;
+    height:100vh;
+    background-image: url('./assets/images/weather.svg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    
+}
